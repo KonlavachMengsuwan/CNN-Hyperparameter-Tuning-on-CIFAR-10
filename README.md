@@ -21,6 +21,9 @@ This project demonstrates how to build and compare multiple Convolutional Neural
 - Dropout at `0.3` slightly outperforms `0.5` for Adam
 - Adding more convolutional layers improves performance (up to a point)
 
+![image](https://github.com/user-attachments/assets/92d50645-ce58-4562-8ffa-76d2d5934e2f)
+![image](https://github.com/user-attachments/assets/92d50645-ce58-4562-8ffa-76d2d5934e2f)
+
 ## 🗂 Files
 
 | File                         | Description                              |

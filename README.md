@@ -40,3 +40,23 @@ Install dependencies:
 
 ```bash
 pip install tensorflow numpy pandas matplotlib seaborn scikit-learn
+```
+
+## 🚀 How to Run
+
+```bash
+python cnn_hyperparam_comparison_V2.py
+```
+
+After running this script, you will:
+
+- ✅ Train multiple CNN models on CIFAR-10 with different hyperparameter combinations  
+- ✅ Save all results (including dropout, optimizer, learning rate, depth, etc.) to `cnn_experiment_results.csv`  
+- ✅ Automatically generate and display a bar plot comparing test accuracies grouped by optimizer and dropout rate  
+- ✅ Be able to analyze which combination performed best using the CSV and visual plot  
+
+
+---
+
+Let me know if you'd like the **plot to auto-save** to file (so you don't have to do it manually). I can modify the Python script for that too.
+
